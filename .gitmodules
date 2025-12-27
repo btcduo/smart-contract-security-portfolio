@@ -1,0 +1,3 @@
+[submodule "modules/eip-1167-minimal-proxy"]
+	path = modules/eip-1167-minimal-proxy
+	url = git@github.com:btcduo/eip-1167-minimal-proxy.git
