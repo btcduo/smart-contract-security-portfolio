@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# foundry
+out/
+cache/
+broadcast/
+
+# node
+node_modules/
+.env
+.env.*
