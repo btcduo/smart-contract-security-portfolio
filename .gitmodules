@@ -1,0 +1,3 @@
+[submodule "protocols/treasure-vault-protocol/lib/forge-std"]
+	path = protocols/treasure-vault-protocol/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
