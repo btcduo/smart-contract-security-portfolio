@@ -1,3 +1,6 @@
 [submodule "modules/eip-1167-minimal-proxy"]
     path = modules/eip-1167-minimal-proxy
     url = git@github.com:btcduo/eip-1167-minimal-proxy.git
+[submodule "protocols/treasure-vault-protocol"]
+	path = protocols/treasure-vault-protocol
+	url = git@github.com:btcduo/treasure-vault-protocol.git
