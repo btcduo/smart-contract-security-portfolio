@@ -10,3 +10,6 @@ broadcast/
 node_modules/
 .env
 .env.*
+
+# macOS
+.DS_Store
